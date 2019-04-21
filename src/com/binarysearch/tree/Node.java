@@ -5,7 +5,7 @@ import java.security.Key;
 /**
  * Author:   ljl
  * Date :    2018-02-09
- * Description:二分搜索树节点Node，主要用于表示当前节点，以及左侧和右侧的Node节点
+ * Description:二分搜索树节点Node，主要用于表示当前节点，以及左侧和右侧的Node节点。
  * History:
  *     <author>     <time>     <version>   <desc>
  */
